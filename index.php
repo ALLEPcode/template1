@@ -27,51 +27,11 @@
 </head>
 
 <body>
-  <!-- Loader Starts here -->
-  <div class="loader-block">
-    <div class="loader">
-      Loading...
-    </div>
-  </div>
-  <!-- Loader Ends here -->
-  <!--Wrapper Section Start Here -->
-
 
   <div class="homepage homepage-1" id="wrapper">
     <!--header Section Start Here -->
     <header class="header" id="header">
       <!-- primary header Start Here -->
-      <div class="primary-header">
-        <div class="container">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6">
-              <div class="mail">
-                <img alt="" src="images/icon-mail.png">
-                  <span>Email usat : <a class="email-us" href="">info@transporttheme.com</a></span>
-              </div>
-            </div>
-
-            <div class="col-xs-12 col-sm-6">
-              <div class="social-wrap clearfix">
-                <a class="request" href="request-a-quote.html">
-                  request aquote
-                </a>
-                <ul class="social">
-                  <li>
-                    <a href="#"><i class="fa fa-facebook"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fa fa-twitter"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fa fa-google-plus"></i></a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
       <!-- primary header Ends Here -->
       <!-- main header Starts Here -->
       <div class="main-header">
@@ -80,12 +40,7 @@
             <div class="col-xs-12 hidden-xs">
               <div class="call-us">
                 <ul>
-                  <li><img alt="" src="images/iphone.png"> <span class=
-                  "transport">CALL US NOW FOR <span></span> YOUR
-                  TRANSPORT</span></li>
-                  <li>
-                    <a href="tel:5917890123">591 7890 123</a>
-                  </li>
+                  <li></li>
                 </ul>
               </div>
             </div>
